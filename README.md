@@ -1,2 +1,8 @@
 # AMD-OSX-EFI-REPOSITORY
 X570 BUILDS
+GIGABYTE AORUS X570 AORUS PRO
+Corsair 16 GB DDR4-3600-18 Kit
+AMD Ryzen 5 3600, 3,6 GHz
+Corsair Force Series MP600, 500 GB SSD
+be quiet! Dark Rock Pro 4
+Radeon RX 580 8 GB
